@@ -1,4 +1,3 @@
-# Web-Lab3
-Web application "TODOS".
+# Web application "TODOS".
 
 ## DO WITH TODOS :)
